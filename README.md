@@ -143,10 +143,12 @@ Publish the website in the given URL.
 
 ### Home Page:
 (i)
-![output](./images/img1.png)
+![image](https://user-images.githubusercontent.com/119575445/215037403-831c93e8-e6ef-4c14-8143-e11d88c43416.png)
+
 ### product page:
-![m](./images/img2.png)
+
 (ii)
+![image](https://user-images.githubusercontent.com/119575445/215037458-8d38fe3f-ad5b-4026-bf6f-fa7aabe27aa8.png)
 
 ## Result:
 
